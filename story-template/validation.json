@@ -1,0 +1,24 @@
+{
+  "at": "2026-10-08T14:41:13.173504+00:00",
+  "local_url": "http://127.0.0.1:8767",
+  "artifact": "index.html",
+  "passed": [
+    "Initial Chrome render",
+    "Paper theme updates preview and status",
+    "Mobile preview toggle",
+    "Action click displays local feedback"
+  ],
+  "unverified": [
+    "Configuration download: browser event timeout",
+    "Standalone HTML download",
+    "Long-content UI case",
+    "SillyTavern runtime or card import"
+  ],
+  "sources": [
+    "https://docs.sillytavern.app/usage/core-concepts/characterdesign/",
+    "https://docs.sillytavern.app/usage/core-concepts/uicustomization/"
+  ],
+  "no_live_model_calls": true,
+  "no_external_resources": true,
+  "sha256": "73cae704f2aa433fe5c637c004bcb05dd3020ad2957845e542e8574b71c06a2b"
+}

@@ -19,3 +19,9 @@ The bundled third-party Lottie Web renderer is MIT licensed; its copyright notic
 Original synthetic capability sample by swordFIFA with AI assistance. Import ASCII or binary STL locally, select a mesh, adjust translation and Y rotation, replay two poses, and export pose JSON. The standalone file bundles Three.js under its preserved MIT license and does not send imported files to a server.
 
 Checked in isolated Chrome with synthetic ASCII/binary STL, transforms, animation, JSON export, invalid-input handling and a 390px viewport. No physical-device or customer-mesh testing is claimed. Bounding boxes provide broad-phase overlap candidates only; this is not precise collision detection, registration, clinical software or a past client deployment. Imports are capped at 10 MB and 200,000 triangles. Paid scope, acceptance and payment require separate agreement.
+
+## Storyframe — standalone story-card editor demo
+
+[Open Storyframe](https://swordfifa.github.io/service-samples/story-template/) · [Source and verification notes](story-template/README.md)
+
+An original, AI-assisted UI sample by swordFIFA (not a client case). It demonstrates an editable story card and local preview. The verification notes distinguish checked interactions from exports and runtime compatibility that remain unverified.
